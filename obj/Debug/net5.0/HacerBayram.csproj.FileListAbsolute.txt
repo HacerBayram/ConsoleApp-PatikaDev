@@ -1,0 +1,16 @@
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\HacerBayram.exe
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\HacerBayram.deps.json
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\HacerBayram.runtimeconfig.json
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\HacerBayram.runtimeconfig.dev.json
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\HacerBayram.dll
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\ref\HacerBayram.dll
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\bin\Debug\net5.0\HacerBayram.pdb
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.csproj.AssemblyReference.cache
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.AssemblyInfoInputs.cache
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.AssemblyInfo.cs
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.csproj.CoreCompileInputs.cache
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.dll
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\ref\HacerBayram.dll
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.pdb
+C:\Users\HacerBayram\Desktop\PatikaDev\Console\obj\Debug\net5.0\HacerBayram.genruntimeconfig.cache
